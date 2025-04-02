@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://zoracel-dental-gummy.vercel.app
+Sitemap: https://zoracel-dental-gummy.vercel.app/sitemap.xml
