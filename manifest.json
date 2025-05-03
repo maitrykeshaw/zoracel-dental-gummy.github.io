@@ -1,28 +1,28 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
-  "start_url":"index.html",
-  "display":"standalone",
-  "background_color":"#5900b3",
-  "theme_color":"#FF5733",
+  "name": "Zoracel Dental Gummy™ | Official Site",
+  "short_name": "Zoracel",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#5900b3",
+  "theme_color": "#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
-  "icons":[
-  {
-  "src":"icons/favicon-192x192.png",                     
-  "sizes":"192x192",
-  "type":"image/png"
-  },
-  {
-  "src":"icons/favicon-512x512.png",
-  "sizes":"512x512",
-  "type":"image/png"
-  },
-  {
-    "src": "icons/favicon-512x512-maskable.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "maskable"
-  }
-]
+  "description": "Zoracel Dental Gummy is a scientifically proven candy with potent minerals and strains.",
+  "icons": [
+    {
+      "src": "icons/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/favicon-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
